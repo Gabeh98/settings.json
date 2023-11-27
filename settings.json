@@ -4,16 +4,6 @@
   "editor.formatOnPaste": true,
   "editor.formatOnType": true,
   "editor.minimap.enabled": false,
-  "mssql.connections": [
-    {
-      "server": "DESKTOP-S8LUNDS",
-      "database": "",
-      "authenticationType": "Integrated",
-      "encrypt": "Mandatory",
-      "trustServerCertificate": true,
-      "password": ""
-    }
-  ],
   "mssql.objectExplorer.groupBySchema": false,
   "breadcrumbs.enabled": false,
   //VIM_CONFIG
