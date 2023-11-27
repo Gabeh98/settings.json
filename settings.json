@@ -4,7 +4,6 @@
   "editor.formatOnPaste": true,
   "editor.formatOnType": true,
   "editor.minimap.enabled": false,
-  "mssql.objectExplorer.groupBySchema": false,
   "breadcrumbs.enabled": false,
   //VIM_CONFIG
   "vim.leader": "<Space>",
